@@ -3,3 +3,5 @@ name: 'Twisted Minds - a website about serial killers'
 description: >
   A website about serial killers and
   psychological disorders
+
+theme: jekyll-theme-cayman
