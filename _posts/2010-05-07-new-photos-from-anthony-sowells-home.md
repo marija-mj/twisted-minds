@@ -1,0 +1,33 @@
+---
+id: 624
+title: 'New Photos From Anthony Sowell&#8217;s Home'
+date: 2010-05-07T17:52:31+00:00
+author: admin
+layout: post
+guid: http://twistedminds.creativescapism.com/?p=624
+permalink: /serial_killers/new-photos-from-anthony-sowells-home/
+categories:
+  - notorious crimes
+  - serial killers
+tags:
+  - Anthony Sowell
+  - Celeveland Police
+  - crime scene
+  - death penalty
+  - eleven bodies
+  - exclusive photos
+  - serial killer
+---
+<p class="dropcap-first">
+  <strong>Anthony Sowell, an accused serial killer facing death penalty, was arrested when bodies of eleven woman were found in and around his home last fall. Now, the police released exclusive photographs of the crime scene, taken inside his home.</strong>
+</p>
+
+<img class="left" title="Anthony Sowell" src="http://twistedminds.creativescapism.com/img/post/AnthonySowell.jpg" alt="face of a serial killer Anthony Sowell" width="40%" /> Last November, Cleveland Police discovered the remains of nearly a dozen women inside Sowell&#8217;s house on Imperial Avenue. Bodies were found throughout the home and also in the yard. There were multiple shallow graves in the basement. Police say in addition to burying the decomposing bodies, Sowell hid them in various crawl spaces. In the living room, cops found two dead bodies out in the open, lying next to a shovel. More than 4,500 pictures were taken during the investigation by the Cuyahoga County Coroner&#8217;s office, and you can see 62 photos [exclusively on Action News](http://www.woio.com/global/story.asp?s=12399520 "photographs taken inside Anthony Sowell's home"){.broken_link}.
+
+Anthony Sowell is facing an unprecedented 85 charges. The accused sex offender faces the death penalty if convicted. if you want to read more about this case, read the article [Serial Killer Anthony Sowell Arrested](http://twistedminds.creativescapism.com/notorious-crimes/serial-killer-anthony-sowell-arrested/ "serial killer Anthony Sowell arrested"). It is yet uncertain if he is involved in more disappearances that happened around Celeveland and police are looking into it.
+
+<img class="left" title="Anthony Sowell's home" src="http://twistedminds.creativescapism.com/img/post/AnthonySowell'shome.jpg" alt="photo taken inside serial killer Anthony Sowell's home" width="40%" /><img class="right" title="Anthony Sowell's home" src="http://twistedminds.creativescapism.com/img/post/AnthonySowell'shome2.jpg" alt="photo taken inside serial killer Anthony Sowell's home" width="40%" /> 
+
+<p style="text-align: right;">
+  <em>-article from <a title="Action News" href="http://www.woio.com/">Action News</a> rewritten and adapted by admin-</em>
+</p>

@@ -1,0 +1,27 @@
+---
+id: 19
+title: 'Holmes Typology &#8211; Introduction'
+date: 2008-09-17T12:38:32+00:00
+author: admin
+layout: page
+guid: http://www.twistedminds.com/?page_id=19
+---
+<p class="dropcap-first">
+  There are many ways to classify or create typologies of serial murderers. There are typologies that are based on the frequency and timing of the homicidal behavior, typologies based on the presumed characteristics of serial killers, and typologies based on perpetrator motivation. While many argue that it is important to remain grounded in the behavioral aspects of the crime, which Godwin argues as an &#8220;inductive&#8221; approach, as opposed to what he calls the &#8220;gut feeling&#8221; or deductive approach based on socio-psychological characteristics, there are also those who argue for motivational approaches (Ferguson et.al. 2003). In this lecture, we examine the Holmes typology, which is one of those deductive approaches that presumes various socio-psychological characteristics of the offender. It should be noted that the Holmes typology has NOT been validated by any rigorous scientific research, and is based primarily on anecdotal evidence.
+</p>
+
+The Holmes typology is based on obsessive-compulsive characteristics of the serial killer as indicated from verbal interview data on the reasons they kill. It contains an implicit theory of interpersonal (socio-emotional) development, based upon their position in a cycle of violence (similar to the cycle of victimization for any self-defeating or addictive pattern). Here, we examine the first part of it &#8212; the distinction between &#8220;disorganized&#8221; and &#8220;organized&#8221; offenders. The labels &#8220;disorganized&#8221; and &#8220;organized&#8221; refer to the degree of personality aberration, which is evident in how chaotic or controlled the crime scene is. The labels &#8220;asocial&#8221; and &#8220;nonsocial&#8221; refer to whether the person is a loner because of weirdness or by choice. It should be noted that mixed types are also possible, and profilers do not feel constrained to choose between the two types presented here. 
+
+##### part 1 &#8211; organized vs disorganized
+
+The organized offender is described as leading an orderly life that is also reflected in the way he commits his crimes. Highlighting some proposed characteristics, he is claimed to be of average to high intelligence, socially competent, and more likely than the disorganized offender to have skilled employment. It is also claimed that he is apt to plan his offenses, use restraints on his victim, and to bring a weapon with him to commit the murder and to take the weapon away with him from the crime scene. 
+
+In contrast, the crime scene of the disorganized offender is described as reflecting an overall sense of disorder and suggests little, if any, preplanning of the murder. The disarray present at the crime scene may include evidence such as blood, semen, fingerprints, and the murder weapon. There is minimal use of restraints and the body is often displayed in open view.  
+The disorganized offender is thought to be socially incompetent and to have below-average intelligence.
+
+According to its proponents (e.g. Douglas et al., 1992), in general organized offenders are hypothesized to kill after undergoing some sort of precipitating stressful event, such as financial, relationship, or employment problems. Their actions are thought to reflect a level of planning and control. The crime scene will therefore reflect a methodical and ordered approach. This is seen as being a consequence of the organized offender being socially skilled and adept with handling interpersonal situations. Organized offenders are thus more likely to use a verbal approach with victims prior to violence and all these aspects of the offender are presumed to be reflected in the crime scene.
+
+By contrast, Douglas et al. (1992) hypothesize that the disorganized offender kills opportunistically. He or she will live in close proximity to the crime scene.  
+A lack of planning before, during, or after the crime will be reflected in the spontaneous style of the offense and the chaotic state of the crime scene. This mirrors the offender&#8217;s social inadequacy and inability to maintain interpersonal relationships. The lack of normal, healthy social relationships increases the likelihood of sexual ignorance as well as the potential for sexual perversions or dysfunctions as part of the homicidal acts.
+
+In the Crime Classification Manual, Douglas et al. (1992) introduced a third category to the taxonomy, the &#8220;mixed&#8221; offender. They suggest that the reasons for those offenders who cannot be easily discriminated as organized or disorganized are multifarious. The attack may involve more than one offender, there may be unanticipated events that the offender had not planned for, the victim may resist or the offender may &#8220;escalate&#8221; into a different pattern during the course of an offence or over a series of offenses. The suggestion is that in this sort of crime, although there may be some evidence of planning, there will be poor concealment of the body. The crime scene might be in great disarray, and there will be a great deal of manual violence committed against the victim. The offender may be young or involved in drugs or alcohol.
