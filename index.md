@@ -4,6 +4,3 @@
 
 layout: default
 ---
-<body>
-  test
-  </body>
